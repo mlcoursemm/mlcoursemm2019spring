@@ -1,5 +1,5 @@
 # mlcoursemm2019spring
 
-## Repository for mech-math ML course (2019, spring)
+## Repository for Mechanics and Mathematics ML course (2019, spring)
 
 TBD
