@@ -1,6 +1,4 @@
-# mlcoursemm2019spring
-
-## Repository for Mechanics and Mathematics ML course (2019, spring)
+# Курс "Введение в компьютерный интеллект. Машинное обучение". МехМат МГУ, весна 2019.
 
 ## Содержание
 
