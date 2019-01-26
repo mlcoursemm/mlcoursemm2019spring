@@ -68,7 +68,7 @@
 ## <a name="links" /> Полезные ссылки 
 ### Введение в Python
 * Python Programming in 15 min: [Part1](https://towardsdatascience.com/python-programming-in-15-min-part-1-3ad2d773834c), [Part2](https://towardsdatascience.com/python-programming-in-15-min-part-2-480f78713544), [Part3](https://towardsdatascience.com/python-programming-in-15-min-part-3-ce882f9ab9b2)
-* https://github.com/vamsi/python-programming-modern-approach
-* https://github.com/trekhleb/learn-python
+* Python Programmin - A Modern Approach: [Code, notebooks and slides](https://github.com/vamsi/python-programming-modern-approach)
+* Playground and Cheatsheet for Learning Python: [github repo](https://github.com/trekhleb/learn-python)
 ### Введение в машинное обучение
 https://github.com/trekhleb/homemade-machine-learning
