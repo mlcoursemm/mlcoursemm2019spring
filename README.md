@@ -63,18 +63,12 @@
 Задачи компьютерного зрения.
 ## <a name="lit" /> Список литературы
 1. [Курс лекций по машинному обучению](http://www.machinelearning.ru/wiki/index.php?title=Машинное_обучение_%28курс_лекций%2C_К.В.Воронцов%29) на http://www.machinelearning.ru от Воронцова К. В.
-1. Hastie, T. and Tibshirani, R. and Friedman, J. [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12.pdf), 2nd edition, Springer, 533 pages, 2009.
-2. Bishop, C.M. [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf), Springer, 2006, 738 pages.
+1. Hastie, T. and Tibshirani, R. and Friedman, J. [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12.pdf), 2nd edition, Springer, 2009.
+2. Bishop, C.M. [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf), Springer, 2006.
 ## <a name="links" /> Полезные ссылки 
 ### Введение в Python
-https://towardsdatascience.com/python-programming-in-15-min-part-1-3ad2d773834c
-
-https://towardsdatascience.com/python-programming-in-15-min-part-2-480f78713544
-
-https://towardsdatascience.com/python-programming-in-15-min-part-3-ce882f9ab9b2
-
-https://github.com/vamsi/python-programming-modern-approach
-
-https://github.com/trekhleb/learn-python
+* Python Programming in 15 min: [Part1](https://towardsdatascience.com/python-programming-in-15-min-part-1-3ad2d773834c), [Part2](https://towardsdatascience.com/python-programming-in-15-min-part-2-480f78713544), [Part3](https://towardsdatascience.com/python-programming-in-15-min-part-3-ce882f9ab9b2)
+* https://github.com/vamsi/python-programming-modern-approach
+* https://github.com/trekhleb/learn-python
 ### Введение в машинное обучение
 https://github.com/trekhleb/homemade-machine-learning
