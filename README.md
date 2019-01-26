@@ -71,4 +71,4 @@
 * Python Programmin - A Modern Approach: [Code, notebooks and slides](https://github.com/vamsi/python-programming-modern-approach)
 * Playground and Cheatsheet for Learning Python: [github repo](https://github.com/trekhleb/learn-python)
 ### Введение в машинное обучение
-https://github.com/trekhleb/homemade-machine-learning
+* Homemade Machine Learning: [github repo](https://github.com/trekhleb/homemade-machine-learning)
