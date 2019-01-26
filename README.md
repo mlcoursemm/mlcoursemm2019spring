@@ -64,7 +64,7 @@
 ## <a name="lit" /> Список литературы
 1. [Курс лекций по машинному обучению](http://www.machinelearning.ru/wiki/index.php?title=Машинное_обучение_%28курс_лекций%2C_К.В.Воронцов%29) на http://www.machinelearning.ru от Воронцова К. В.
 1. Hastie, T. and Tibshirani, R. and Friedman, J. The Elements of Statistical Learning, 2nd edition, Springer, 533 pages, 2009, http://www-stat.stanford.edu/~tibs/ElemStatLearn
-2. Bishop, C.M. Pattern Recognition and Machine Learning, Springer, 2006, 738 pages, http://research.microsoft.com/en-us/um/people/cmbishop/prml
+2. Bishop, C.M. [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf), Springer, 2006, 738 pages.
 ## <a name="links" /> Полезные ссылки 
 ### Введение в Python
 https://towardsdatascience.com/python-programming-in-15-min-part-1-3ad2d773834c
