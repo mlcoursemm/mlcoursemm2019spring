@@ -66,6 +66,8 @@
 1. Hastie, T. and Tibshirani, R. and Friedman, J. [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12.pdf), 2nd edition, Springer, 2009.
 2. Bishop, C.M. [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf), Springer, 2006.
 ## <a name="links" /> Полезные ссылки 
+### Telegram-канал
+* [Ссылка на канал](https://t.me/joinchat/AAAAAEUmx5cJLOdLXsOt8g)
 ### Шпаргалки
 * Краткая справочная информация по Python, NumPy, SciPy, SciKit-learn, Pandas, MatPlotLib, Jupyter Notebook: см. в [соответствующей папке](./cheatsheets/) курса
 ### Введение в Python
