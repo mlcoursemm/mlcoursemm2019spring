@@ -12,7 +12,7 @@
 Курс будет читаться на базе кафедры [Математической Теории Интеллектуальных Систем](http://intsys.msu.ru) под руководством д.ф.-м.н., профессора [Бабина Д. Н.](http://intsys.msu.ru/staff/babin/) Курс будут читать к.ф.-м.н. Петюшко А. А. и к.ф.-м.н. Иванов И. Е.
 
 ## <a name="ww" /> Время и место 
-О времени и месте проведения будет объявлено позднее.
+О времени и месте проведения будет объявлено позднее. Также следите за нашим [Telegram-каналом](https://t.me/joinchat/AAAAAEUmx5cJLOdLXsOt8g).
 ## <a name="program" /> Программа курса 
 Тема 1.
 Постановка задач машинного обучения. Понятие искусственного интеллекта.
@@ -67,7 +67,7 @@
 2. Bishop, C.M. [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf), Springer, 2006.
 ## <a name="links" /> Полезные ссылки 
 ### Telegram-канал
-* [Ссылка на канал](https://t.me/joinchat/AAAAAEUmx5cJLOdLXsOt8g)
+* [Ссылка](https://t.me/joinchat/AAAAAEUmx5cJLOdLXsOt8g)
 ### Шпаргалки
 * Краткая справочная информация по Python, NumPy, SciPy, SciKit-learn, Pandas, MatPlotLib, Jupyter Notebook: см. в [соответствующей папке](./cheatsheets/) курса
 ### Введение в Python
