@@ -13,7 +13,7 @@
 Курс будет читаться на базе кафедры [Математической Теории Интеллектуальных Систем](http://intsys.msu.ru) под руководством д.ф.-м.н., профессора [Бабина Д. Н.](http://intsys.msu.ru/staff/babin/) Курс будут читать к.ф.-м.н. Петюшко А. А. и к.ф.-м.н. Иванов И. Е.
 
 ## <a name="ww" /> Время и место 
-О времени и месте проведения будет объявлено позднее. Также следите за нашим [Telegram-каналом](https://t.me/joinchat/AAAAAEUmx5cJLOdLXsOt8g).
+О времени и месте проведения будет объявлено позднее. Следите за нашим [Telegram-каналом](https://t.me/joinchat/AAAAAEUmx5cJLOdLXsOt8g)!
 ## <a name="feedback" /> Связь с преподавателями
 * [Telegram-канал](https://t.me/joinchat/AAAAAEUmx5cJLOdLXsOt8g), в котором будут появляться все важные новости
 * Обратная связь - по почте mlcoursemm@gmail.com
@@ -71,8 +71,6 @@
 1. Hastie, T. and Tibshirani, R. and Friedman, J. [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12.pdf), 2nd edition, Springer, 2009.
 2. Bishop, C.M. [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf), Springer, 2006.
 ## <a name="links" /> Полезные ссылки 
-### Telegram-канал
-* [Ссылка](https://t.me/joinchat/AAAAAEUmx5cJLOdLXsOt8g)
 ### Шпаргалки
 * Краткая справочная информация по Python, NumPy, SciPy, SciKit-learn, Pandas, MatPlotLib, Jupyter Notebook: см. в [соответствующей папке](./cheatsheets/) курса
 ### Введение в Python
