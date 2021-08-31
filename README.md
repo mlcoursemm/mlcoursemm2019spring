@@ -120,7 +120,7 @@
 * Machine learning: [Курс](https://www.coursera.org/learn/machine-learning) Andrew Ng на площадке https://www.coursera.org
 
 
-# <a name="en" /> EN version
+## <a name="en" /> EN version
 
 # Introduction to Computer Intelligence. Machine learning.
 
