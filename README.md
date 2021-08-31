@@ -125,15 +125,15 @@
 # Introduction to Computer Intelligence. Machine learning.
 
 ## Content
-* [News](#news)
-* [Short info](#info)
-* [Time and place](#ww)
-* [Communication with teachers](#feedback)
-* [Task results](#marks)
-* [Course program](#program)
-* [Bibliography](#lit)
-* [Useful links](#links)
-## <a name="news" /> News
+* [News](#news1)
+* [Short info](#info1)
+* [Time and place](#ww1)
+* [Communication with teachers](#feedback1)
+* [Task results](#marks1)
+* [Course program](#program1)
+* [Bibliography](#lit1)
+* [Useful links](#links1)
+## <a name="news1" /> News
 * Summed up the course - see [detailed breakdown](https://docs.google.com/spreadsheets/d/19s51nGSJ_-_K8niZpovrUZ5fPiDgU2gfZn_4Rik6Z8w/edit?ts=5c65b52b#gid=0) 
 * Posted [tenth lecture](lec/) and [matching laptop](prac/)
 * Launched a machine learning competition https://www.kaggle.com/t/af6a791ec09847f390bddbb03a86cea3
@@ -146,11 +146,11 @@
 * Second [lecture](lec/lecture02.pdf), first [theoretical task](assignments/theory01.pdf) (deadline for full score - 01 April 2019) and [laptops](prac/) from the second lesson
 * First [lecture](lec/lecture01.pdf)
 * The first lecture will take place on Friday 15 February at 6:30 pm in room 1225 (main bilding MSU).
-## <a name="info" /> Short info 
+## <a name="info1" /> Short info 
 In the spring semester of 2019 at the Faculty of Mechanics and Mathematics of Moscow State University. MV Lomonosov Moscow State University begins reading a new special course of the student's choice, dedicated to classical machine learning algorithms. 
 
 The course will be taught on the basis of the department [Mathematical Theory of Intelligent Systems](http://intsys.msu.ru) under the guidance of Doctor of Physical and Mathematical Sciences, Professor [Babin D.N.](http://intsys.msu.ru/staff/babin/) The course will be delivered by Ph.D. Petiushko A.A. and Ph.D. Ivanov I.E.
-## <a name="ww" /> Time and place 
+## <a name="ww1" /> Time and place 
 The course is read on Fridays, 18:30, main bilding MSU, room 1225. 
 ## <a name="feedback" /> Communication with teachers
 * [Telegram-channel](https://t.me/joinchat/AAAAAEUmx5cJLOdLXsOt8g), where all important news will appear
@@ -178,7 +178,7 @@ The course is read on Fridays, 18:30, main bilding MSU, room 1225.
   * Send solutions to the course email mlcoursemm@gmail.com
   * Format: it is better pdf (done in TeXe), but you can just take a picture of the solution with a camera
 * Summary plate: Link to [docs.google](https://docs.google.com/spreadsheets/d/19s51nGSJ_-_K8niZpovrUZ5fPiDgU2gfZn_4Rik6Z8w/edit?ts=5c65b52b#gid=0)
-## <a name="program" /> Course program 
+## <a name="program1" /> Course program 
 Topic 1.
 Machine learning problem statement. Artificial intelligence concept.
 
@@ -226,11 +226,11 @@ Algorithm testing, quality metrics.
 
 Topic 16.
 Computer vision tasks.
-## <a name="lit" /> Bibliography
+## <a name="lit1" /> Bibliography
 1. [Machine Learning Lecture Course](http://www.machinelearning.ru/wiki/index.php?title=Машинное_обучение_%28курс_лекций%2C_К.В.Воронцов%29) on http://www.machinelearning.ru from Vorontsov K.V.
 1. Hastie, T. and Tibshirani, R. and Friedman, J. [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12.pdf), 2nd edition, Springer, 2009.
 2. Bishop, C.M. [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf), Springer, 2006.
-## <a name="links" /> Useful links
+## <a name="links1" /> Useful links
 ### Cheat sheets
 * Quick reference information on Python, NumPy, SciPy, SciKit-learn, Pandas, MatPlotLib, Jupyter Notebook: see in [corresponding folder](./cheatsheets/) course
 ### Introduction to Python
