@@ -152,11 +152,11 @@ In the spring semester of 2019 at the Faculty of Mechanics and Mathematics of Mo
 The course will be taught on the basis of the department [Mathematical Theory of Intelligent Systems](http://intsys.msu.ru) under the guidance of Doctor of Physical and Mathematical Sciences, Professor [Babin D.N.](http://intsys.msu.ru/staff/babin/) The course will be delivered by Ph.D. Petiushko A.A. and Ph.D. Ivanov I.E.
 ## <a name="ww1" /> Time and place 
 The course is read on Fridays, 18:30, main bilding MSU, room 1225. 
-## <a name="feedback" /> Communication with teachers
+## <a name="feedback1" /> Communication with teachers
 * [Telegram-channel](https://t.me/joinchat/AAAAAEUmx5cJLOdLXsOt8g), where all important news will appear
 * Feedback - by email mlcoursemm@gmail.com
 * Well, you can always write in [issues](https://github.com/mlcoursemm/mlcoursemm2019spring/issues) :)
-## <a name="marks" /> Task results
+## <a name="marks1" /> Task results
 * Machine learning competition
    * The scorecard, timing and rules of participation can be found [here](https://www.kaggle.com/t/af6a791ec09847f390bddbb03a86cea3)
 * Second practical task
