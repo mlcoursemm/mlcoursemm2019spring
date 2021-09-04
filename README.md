@@ -239,4 +239,4 @@ Computer vision tasks.
 * Playground and Cheatsheet for Learning Python: [github repo](https://github.com/trekhleb/learn-python)
 ### Introduction to machine learning
 * Homemade Machine Learning: [github repo](https://github.com/trekhleb/homemade-machine-learning)
-* Machine learning: [Course](https://www.coursera.org/learn/machine-learning) Andrew Ng on the site https://www.coursera.org
+* Machine learning: [Course](https://www.coursera.org/learn/machine-learning) by Andrew Ng on the site https://www.coursera.org
