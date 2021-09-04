@@ -134,59 +134,59 @@
 * [Bibliography](#lit1)
 * [Useful links](#links1)
 ## <a name="news1" /> News
-* Summed up the course - see [detailed breakdown](https://docs.google.com/spreadsheets/d/19s51nGSJ_-_K8niZpovrUZ5fPiDgU2gfZn_4Rik6Z8w/edit?ts=5c65b52b#gid=0) 
-* Posted [tenth lecture](lec/) and [matching laptop](prac/)
-* Launched a machine learning competition https://www.kaggle.com/t/af6a791ec09847f390bddbb03a86cea3
-* Lectures are uploaded [7 through 9](lec/)
-* Posted [second practical task](assignments/programming02). Deadline for Full Score - May 17, 2019
-* Second [theoretical task](assignments/theory02.pdf). Deadline for Full Score - May 10, 2019
-* Lectures are uploaded [from 4 to 6](lec/) and [laptops](prac/) with the fifth and sixth lectures
-* Posted [first practical task](assignments/programming01). Deadline for Full Score - 08 April 2019
-* Third [lecture](lec/lecture03.pdf) and [laptops](prac/) from the third lesson
-* Second [lecture](lec/lecture02.pdf), first [theoretical task](assignments/theory01.pdf) (deadline for full score - 01 April 2019) and [laptops](prac/) from the second lesson
+* Summed up the results - see the [detailed table](https://docs.google.com/spreadsheets/d/19s51nGSJ_-_K8niZpovrUZ5fPiDgU2gfZn_4Rik6Z8w/edit?ts=5c65b52b#gid=0) 
+* Uploaded the [10th lecture](lec/) and [corresponding notebook](prac/)
+* Launched a machine learning competition on [kaggle](https://www.kaggle.com/t/af6a791ec09847f390bddbb03a86cea3)
+* Lectures are uploaded: [7th through 9th](lec/)
+* Uploaded the [second practical task](assignments/programming02). Deadline for getting the Full Score - May 17, 2019
+* Uploaded the [second theoretical task](assignments/theory02.pdf). Deadline for getting the Full Score - May 10, 2019
+* Lectures are uploaded: [from 4th to 6th](lec/) and [notebooks](prac/) with the 5th and 6th lectures
+* Uploaded the [first practical task](assignments/programming01). Deadline for getting the Full Score - April 08, 2019
+* Third [lecture](lec/lecture03.pdf) and [notebooks](prac/) from the third lesson are uploaded
+* Second [lecture](lec/lecture02.pdf), first [theoretical task](assignments/theory01.pdf) (deadline for getting the full score - April 01, 2019) and [notebooks](prac/) from the second lesson are uploaded
 * First [lecture](lec/lecture01.pdf)
-* The first lecture will take place on Friday 15 February at 6:30 pm in room 1225 (main bilding MSU).
+* The first lecture will take place on Friday 15, February, at 6:30 pm in room 1225 (main bilding MSU).
 ## <a name="info1" /> Short info 
-In the spring semester of 2019 at the Faculty of Mechanics and Mathematics of Moscow State University. MV Lomonosov Moscow State University begins reading a new special course of the student's choice, dedicated to classical machine learning algorithms. 
+In the spring semester of 2019 at the Faculty of Mechanics and Mathematics of Lomonosov Moscow State University begins reading a new special course of the student's choice, dedicated to classical machine learning algorithms. 
 
-The course will be taught on the basis of the department [Mathematical Theory of Intelligent Systems](http://intsys.msu.ru) under the guidance of Doctor of Physical and Mathematical Sciences, Professor [Babin D.N.](http://intsys.msu.ru/staff/babin/) The course will be delivered by Ph.D. Petiushko A.A. and Ph.D. Ivanov I.E.
+The course will be taught on the basis of the department [Mathematical Theory of Intelligent Systems](http://intsys.msu.ru) under the guidance of Doctor of Physical and Mathematical Sciences, Professor [Babin D.N.](http://intsys.msu.ru/staff/babin/) The course will be delivered by Ph.D. [Petiushko A.A.](https://petiushko.info) and Ph.D. Ivanov I.E.
 ## <a name="ww1" /> Time and place 
-The course is read on Fridays, 18:30, main bilding MSU, room 1225. 
+The lessons are to be taught on Fridays, 18:30, main bilding MSU, room 1225. 
 ## <a name="feedback1" /> Communication with teachers
 * [Telegram-channel](https://t.me/joinchat/AAAAAEUmx5cJLOdLXsOt8g), where all important news will appear
 * Feedback - by email mlcoursemm@gmail.com
 * Well, you can always write in [issues](https://github.com/mlcoursemm/mlcoursemm2019spring/issues) :)
 ## <a name="marks1" /> Task results
 * Machine learning competition
-   * The scorecard, timing and rules of participation can be found [here](https://www.kaggle.com/t/af6a791ec09847f390bddbb03a86cea3)
+   * The resulting table, timing and rules of participation can be found [here](https://www.kaggle.com/t/af6a791ec09847f390bddbb03a86cea3)
 * Second practical task
-  * Deadline for delivery: deadline on May 17, if there is a delivery after it - points are multiplied by 0.5
-  * The score is indicated in the notebook itself
+  * Timing: deadline on May 17, if there is a delivery after it - points are multiplied by 0.5
+  * Each task scoring is indicated in the notebook itself
   * Send solutions to the course email mlcoursemm@gmail.com
-  * Format: laptop with your code
+  * Format: notebook with your code
 * Second theoretical task
-  * Deadline for delivery: deadline on May 10, if there is a delivery after it - points are multiplied by 0.5
+  * Timing: deadline on May 10, if there is a delivery after it - points are multiplied by 0.5
   * All other conditions are the same as in the first theoretical task
 * First practical task
-  * Terms of delivery: deadline on April 8, if there is a delivery after it - points are multiplied by 0.5
-  * The score is indicated in the notebook itself
+  * Timing: deadline on April 8, if there is a delivery after it - points are multiplied by 0.5
+  * Each task scoring is indicated in the notebook itself
   * Send solutions to the course email mlcoursemm@gmail.com
-  * Format: laptop with your code
+  * Format: notebook with your code
 * The first theoretical task
-  * Deadline for delivery: deadline on April 1, if there is delivery after it - points are multiplied by 0.5
-  * Scoring: 1 point for the task, if there are sub-points in the task, then by point for each sub-point
+  * Timing: deadline on April 1, if there is delivery after it - points are multiplied by 0.5
+  * Scoring: 1 point for the task, if there are sub-points in the task, then 1 point for each sub-task
   * Send solutions to the course email mlcoursemm@gmail.com
-  * Format: it is better pdf (done in TeXe), but you can just take a picture of the solution with a camera
-* Summary plate: Link to [docs.google](https://docs.google.com/spreadsheets/d/19s51nGSJ_-_K8niZpovrUZ5fPiDgU2gfZn_4Rik6Z8w/edit?ts=5c65b52b#gid=0)
+  * Format: it is better pdf (done in TeX), but you can just take a picture of the solution with a camera
+* Summary table: Link to [googledocs](https://docs.google.com/spreadsheets/d/19s51nGSJ_-_K8niZpovrUZ5fPiDgU2gfZn_4Rik6Z8w/edit?ts=5c65b52b#gid=0)
 ## <a name="program1" /> Course program 
 Topic 1.
-Machine learning problem statement. Artificial intelligence concept.
+Machine learning problems statement. Artificial intelligence concept.
 
 Topic 2.
 Validation of algorithms, various types of validation.
 
 Topic 3.
-Retraining. Under-training. Decomposition of the error into displacement and scatter.
+Overfitting. Underfitting. Decomposition of the error into bias and variance.
 
 Topic 4.
 Classification methods. Bayesian approach.
@@ -213,10 +213,10 @@ Topic 11.
 Decision trees and logical classification methods.
 
 Topic 12.
-Regression restoration methods. Linear models.
+Regression. Linear models.
 
 Topic 13.
-Regression restoration methods. Non-linear models.
+Regression. Non-linear models.
 
 Topic 14.
 Compositions of machine learning algorithms. Compositions of classifiers.
@@ -235,7 +235,7 @@ Computer vision tasks.
 * Quick reference information on Python, NumPy, SciPy, SciKit-learn, Pandas, MatPlotLib, Jupyter Notebook: see in [corresponding folder](./cheatsheets/) course
 ### Introduction to Python
 * Python Programming in 15 min: [Part1](https://towardsdatascience.com/python-programming-in-15-min-part-1-3ad2d773834c), [Part2](https://towardsdatascience.com/python-programming-in-15-min-part-2-480f78713544), [Part3](https://towardsdatascience.com/python-programming-in-15-min-part-3-ce882f9ab9b2)
-* Python Programmin - A Modern Approach: [Code, notebooks and slides](https://github.com/vamsi/python-programming-modern-approach)
+* Python Programming - A Modern Approach: [Code, notebooks and slides](https://github.com/vamsi/python-programming-modern-approach)
 * Playground and Cheatsheet for Learning Python: [github repo](https://github.com/trekhleb/learn-python)
 ### Introduction to machine learning
 * Homemade Machine Learning: [github repo](https://github.com/trekhleb/homemade-machine-learning)
